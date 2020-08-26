@@ -34,7 +34,7 @@ A module category, convenient to use A module.
   #   'A_Category' => ['A_Category/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'A_Category/Classes/**/*.h'
   s.frameworks = 'UIKit'
   s.dependency "CTMediator"
 end
