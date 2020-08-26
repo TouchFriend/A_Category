@@ -1,0 +1,29 @@
+{
+  "name": "A_Category",
+  "version": "0.1.0",
+  "summary": "A module category.",
+  "description": "A module category, convenient to use A module.",
+  "homepage": "https://github.com/TouchFriend/A_Category",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cxz": "1604101058@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/TouchFriend/A_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "A_Category/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
